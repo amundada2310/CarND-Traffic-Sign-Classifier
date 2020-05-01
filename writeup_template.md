@@ -18,7 +18,7 @@ The goals / steps of this project are the following:
 
 #### 1. Github - 
 
-1. Here is a link to my [project code](https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb)
+1. Here is a link to my [project code](https://github.com/amundada2310/CarND-Traffic-Sign-Classifier/blob/master/Traffic_Sign_Classifier.ipynb)
 
 2. Here is my HTML LiNK : (file:///C:/Users/aishw/Downloads/Traffic_Sign_Classifier.html)
 
