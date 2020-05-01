@@ -275,7 +275,7 @@ For example with Epoch 70, batch_size 128 and learning rate 0.001. I got 96.2% v
 
 1. My model was able to predict all the signs with accuracy of 100%. This is better than the validation and the test accurary. I think the model can be made improved further by using augmentation technique and maybe trying 1x1 convolutions. 
 
-<img src="writeup_images/100%.PNG" width="700" height="400" />
+<img src="writeup_images/100.PNG" width="700" height="400" />
 
 #### 3. Describe how certain the model is when predicting on each of the five new images by looking at the softmax probabilities for each prediction. Provide the top 5 softmax probabilities for each image along with the sign type of each probability. (OPTIONAL: as described in the "Stand Out Suggestions" part of the rubric, visualizations can also be provided such as bar charts)
 
